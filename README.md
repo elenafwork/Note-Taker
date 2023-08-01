@@ -23,7 +23,7 @@
   
   The deployed application snippet:
 <p align="left">
-  <img src="assets/page-screenshot.png" width="600" title="webpage">
+  <img src="Assets/page-screenshot.png" width="600" title="webpage">
 
  
   ## License
