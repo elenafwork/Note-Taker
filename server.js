@@ -5,7 +5,7 @@ const api=require('./routes/index.js')
 const app=express();
 //const notes=require("./db/db.json");
 //const { error } = require('console');
-const PORT=3001;
+const PORT= process.env.PORT || 3001;
 
 //middleware for parsing JSON and urlcoded form data
 app.use(express.json());
